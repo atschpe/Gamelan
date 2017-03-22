@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Gamelan Concert</string>
+
+    <!--Place & Time of concert  [CHAR LIMIT=15 + 15] -->
     <string name="title">Balinese Music\nand Dance</string>
+
+    <!--Place & Time of concert  [CHAR LIMIT=50] -->
     <string name="place_time">City Museum, Munich - 29/12/16 - 4 pm</string>
+
+    <!--Copyright  [CHAR LIMIT=50] -->
     <string name="copyright">Image © Richard Dvořák, http://dvorak.photos</string>
 </resources>
